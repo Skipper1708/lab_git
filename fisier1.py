@@ -2,6 +2,7 @@ print("sirul linia 1")
 print("linia 2")
 print("linia 3")
 print("linia 4")
+print("linia 5")
 
 
 
